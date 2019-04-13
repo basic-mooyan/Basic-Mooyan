@@ -1,4 +1,4 @@
 # Basic-Mooyan
 Basic Implementation of Mooyan
 
-![Mooyan]/(screenshot/Mooyan.jpg)
+![Mooyan](screenshot/Mooyan.jpg)
