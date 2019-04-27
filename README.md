@@ -14,9 +14,9 @@ supported by Fabrizio Caruso (code optimization)
 - Type **SAVE"CASS:<name of the file>"**
 - Type **NEW**
 - Copy the bg file into the emulator (use File->Simuler le clavier)
-- Type **RUN
+- Type **RUN**
 - Type **NEW**
 - Copy the fg file into the emulator (use File->Simuler le clavier)
-- Type **RUN
+- Type **RUN**
 
 ![Mooyan](screenshot/Mooyan.jpg)
