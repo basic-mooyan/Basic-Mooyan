@@ -11,7 +11,7 @@ supported by Fabrizio Caruso (code optimization)
 ## HOW TO CREATE THE .K7 FILE
 - Mount an empty text file with .k7 extension into DCMOTO virtual cassette player
 - Copy the main basic file into the emulator (use File->Simuler le clavier)
-- Type **SAVE"CASS:<name of the file>"**
+- Type **SAVE"CASS:MOOYAN"**
 - Type **NEW**
 - Copy the bg file into the emulator (use File->Simuler le clavier)
 - Type **RUN**
